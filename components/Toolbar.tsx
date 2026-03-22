@@ -76,7 +76,7 @@ export function Toolbar({
       <div className="title-row">
         <div className="header-brand">
           <span className="header-icon">🦋</span>
-          <h1>Residence Le Farfalle — Booking Board</h1>
+          <h1>B&B Armenes — Booking Board</h1>
         </div>
         <span>{format(monthDate, "MMMM yyyy")}</span>
       </div>

@@ -299,7 +299,7 @@ export default function Home() {
 
       <section className="print-title">
         <div>
-          <h2>Residence Le Farfalle — Booking Board</h2>
+          <h2>B&B Armenes — Booking Board</h2>
           <p>{format(monthDate, "MMMM yyyy")}</p>
         </div>
       </section>
